@@ -1,6 +1,6 @@
 # M5Stack AtomS3 Work-Tracker Cube
 
-Dieses Projekt verwandelt einen **M5Stack AtomS3** in einen Arbeitszeit + Projektzeit-Tracker. Durch einfaches Drehen des Geräts werden Webhooks (z. B. an Google Apps Script) gesendet, um Projektzeiten zu erfassen.
+Dieses Projekt verwandelt einen **M5Stack AtomS3** in einen Arbeitszeit + Projektzeit-Tracker. Durch einfaches Betätigen des Geräts werden Webhooks (z. B. an Google Apps Script) gesendet, um Projektzeiten zu erfassen.
 
 ## Features
 - **Setup-Modus:** Integrierter Webserver zur Konfiguration von WiFi und API-Tokens ohne Neu-Kompilierung.
